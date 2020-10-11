@@ -1,16 +1,16 @@
 # グループ２発表資料
 
 ## グループ名
-**xxxxx**
+**ラ・フランス**
 
 ## 参加者（ニックネーム）
-- ICTV20aa（〇〇〇〇）
-- ICTV20xx
-- ICTV20yy
-- ICTV20zz
+- ICTV2005（天使）　
+- ICTV2001（ぶじゃまる）
+- ICTV20
+- ICTV20
 
 ## テーマ
-### ◇◇◇◇◇
+### 
 - abcdefg
 - stuvwxyz
 
